@@ -1,0 +1,95 @@
+[
+  {
+    "caseId": "CASE-2026001",
+    "title": "Unable to Sign in to Microsoft 365",
+    "description": "User cannot access Outlook after changing the account password.",
+    "status": "In Progress",
+    "priority": "High",
+    "severity": "Medium",
+    "progress": 60,
+    "category": "Authentication",
+    "finding": "Authentication token expired after password reset.",
+    "assignedAgent": "Andrew Jassie",
+    "person": {
+      "id": "P1001",
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "age": 32,
+      "address": "New York, USA",
+      "numOfDevices": 3
+    },
+    "currentStep": 5,
+    "steps": [
+      "Case Created",
+      "Assigned to Agent",
+      "Investigation Started",
+      "Root Cause Identified",
+      "Fix in Progress",
+      "Waiting for Customer",
+      "Resolved",
+      "Closed"
+    ]
+  },
+  {
+    "caseId": "CASE-2026002",
+    "title": "Blue Screen Error After Windows Update",
+    "description": "Laptop displays a blue screen after installing the latest Windows update.",
+    "status": "Resolved",
+    "priority": "Critical",
+    "severity": "High",
+    "progress": 100,
+    "category": "Operating System",
+    "finding": "Incompatible graphics driver installed during Windows Update.",
+    "assignedAgent": "Eric Wilson",
+    "person": {
+      "id": "P1002",
+      "name": "Emily Carter",
+      "email": "emily.carter@example.com",
+      "age": 27,
+      "address": "California, USA",
+      "numOfDevices": 2
+    },
+    "currentStep": 8,
+    "steps": [
+      "Case Created",
+      "Assigned to Agent",
+      "Investigation Started",
+      "Root Cause Identified",
+      "Fix in Progress",
+      "Waiting for Customer",
+      "Resolved",
+      "Closed"
+    ]
+  },
+  {
+    "caseId": "CASE-2026003",
+    "title": "Wi-Fi Disconnects Frequently",
+    "description": "Wireless connection disconnects every few minutes while working remotely.",
+    "status": "Investigation Started",
+    "priority": "Medium",
+    "severity": "Low",
+    "progress": 35,
+    "category": "Network",
+    "finding": "Router firmware appears to be outdated. Further testing required.",
+    "assignedAgent": "Verlon Izenberg",
+    "person": {
+      "id": "P1003",
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "age": 40,
+      "address": "Texas, USA",
+      "numOfDevices": 5
+    },
+    "currentStep": 3,
+    "steps": [
+      "Case Created",
+      "Assigned to Agent",
+      "Investigation Started",
+      "Root Cause Identified",
+      "Fix in Progress",
+      "Waiting for Customer",
+      "Resolved",
+      "Closed"
+    ]
+  }
+]
