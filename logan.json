@@ -16,7 +16,9 @@
       "email": "john.smith@example.com",
       "age": 32,
       "address": "New York, USA",
-      "numOfDevices": 3
+      "numOfDevices": 3,
+      "phone" : 156789335,
+      "isp" : "starlink"
     },
     "currentStep": 5,
     "steps": [
