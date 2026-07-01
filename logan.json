@@ -1,6 +1,6 @@
 [
   {
-    "caseId": "CASE-2026001",
+    "code": "CASE-2026001",
     "title": "Unable to Sign in to Microsoft 365",
     "description": "User cannot access Outlook after changing the account password.",
     "status": "In Progress",
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "caseId": "CASE-2026002",
+    "code": "CASE-2026002",
     "title": "Blue Screen Error After Windows Update",
     "description": "Laptop displays a blue screen after installing the latest Windows update.",
     "status": "Resolved",
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "caseId": "CASE-2026003",
+    "code": "CASE-2026003",
     "title": "Wi-Fi Disconnects Frequently",
     "description": "Wireless connection disconnects every few minutes while working remotely.",
     "status": "Investigation Started",
